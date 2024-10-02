@@ -1,0 +1,3 @@
+Primera nota: Aprender Python es divertido.
+Segunda nota: Practicar con archivos es útil.
+Tercera nota: Seguir explorando nuevas bibliotecas.
